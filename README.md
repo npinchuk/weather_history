@@ -19,4 +19,5 @@ Server library is https://github.com/sajya/server
 * app/Http/Requests/WeatherGetByDateRequest.php
 * app/Http/Requests/WeatherGetHistoryRequest.php
 * database/migrations/2021_01_25_120742_create_history_table.php
+* database/factories/HistoryFactory.php
 * database/seeders/DatabaseSeeder.php
